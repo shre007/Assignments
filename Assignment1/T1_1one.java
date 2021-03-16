@@ -4,7 +4,7 @@ package task_1;
 //package task_1;
 import java.util.*;
 import java.util.Scanner;
-class Task1 {
+class T1_1one {
 ///FIRST RUN QUESTION 1A, THEN COMMENT IT AND RUN 1B
 //Question 1a
 	public static void main(String []s)
