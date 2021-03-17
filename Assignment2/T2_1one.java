@@ -23,11 +23,11 @@ public static void main (String[] args){
             if(i % 3 == 0 && i % 5 == 0){
                 System.out.println("Consultadd JAVA Training");
             }
-            //Check for divisibility by 3 and print "Fizz" if true
+            
             else if(i % 3 == 0){
 	               System.out.println("Consultadd");
           }
-//	            //Check for divisibility by 5 and print "Buzz" if true
+//	            
             else if(i % 5 == 0){
 //	                System.out.println("Java Training");
 	            }
