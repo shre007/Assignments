@@ -41,17 +41,5 @@ public static void main (String[] args){
 
 
 
-//if avg > a and avg > b and avg > c:
-//    print ("Average is higher than a,b,c")
-//elif avg > a and avg > b:
-//    print ("Average is higher than a,b,c")
-//elif avg > a and avg > c:
-//    print ("Average is higher than a,c")
-//elif avg > b and avg > c:
-//    print ("Average is higher than b,c")
-//elif avg > a:
-//    print ("Average is just higher than a")
-//elif avg > b:
-//    print ("Average is just higher than b")
-//elif avg > c:
+
     
