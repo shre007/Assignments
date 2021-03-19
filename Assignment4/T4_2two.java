@@ -6,7 +6,7 @@ public class T4_2two {
 	      int temp;
 	      int size;
 	      
-	      int array[] = {10, 20, 25, 63, 96, 57};
+	      int array[] = {10, 20, 30, 40, 50, 60};
 	      size = array.length;
 
 	      for(int a = 0; a<size; a++ ){
